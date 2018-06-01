@@ -98,4 +98,5 @@ public class CustomPayParam implements Serializable{
     public void setExt(String ext) {
         this.ext = ext;
     }
+    
 }
